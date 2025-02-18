@@ -10,6 +10,8 @@ A simple and elegant weather application built with HTML, CSS, and JavaScript th
 
 ## 📸 Screenshots
 ### 🔹 Weather Display
+![Weather Display](images/weather-app-screenshot.png)
+![Weather Display](images/weather-app-screenshot2.png)
 
 ---
 
