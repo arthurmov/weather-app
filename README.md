@@ -9,11 +9,6 @@ A simple and elegant weather application built with HTML, CSS, and JavaScript th
 ---
 
 ## 📸 Screenshots
-
-### 🔹 Home Screen
-
-
-
 ### 🔹 Weather Display
 
 ---
