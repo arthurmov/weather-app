@@ -1,4 +1,4 @@
-##🌦 Weather App
+## 🌦 Weather App
 
 A simple and elegant weather application built with HTML, CSS, and JavaScript that allows users to check the current weather in any city worldwide.
 
@@ -6,16 +6,16 @@ A simple and elegant weather application built with HTML, CSS, and JavaScript th
 
 ---
 
-##📸 Screenshots
+## 📸 Screenshots
 
-###🔹 Home Screen
+### 🔹 Home Screen
 
 
 
-###🔹 Weather Display
+### 🔹 Weather Display
 
 ---
 
-##🚀 Features
+## 🚀 Features
 
 ✔ Search any city to get real-time weather updates✔ Temperature, weather condition, humidity, and wind speed displayed dynamically✔ Smooth animations and responsive design for all screen sizes✔ Error handling for invalid city names✔ Attractive weather icons based on real-time conditions
