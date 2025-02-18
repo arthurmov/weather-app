@@ -18,4 +18,8 @@ A simple and elegant weather application built with HTML, CSS, and JavaScript th
 
 ## 🚀 Features
 
-✔ Search any city to get real-time weather updates✔ Temperature, weather condition, humidity, and wind speed displayed dynamically✔ Smooth animations and responsive design for all screen sizes✔ Error handling for invalid city names✔ Attractive weather icons based on real-time conditions
+✔ Search any city to get real-time weather updates
+✔ Temperature, weather condition, humidity, and wind speed displayed dynamically
+✔ Smooth animations and responsive design for all screen sizes
+✔ Error handling for invalid city names
+✔ Attractive weather icons based on real-time conditions
