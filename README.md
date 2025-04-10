@@ -1,4 +1,4 @@
-## 🌦 Weather App
+## Weather App
 
 A simple and elegant weather application built with HTML, CSS, and JavaScript that allows users to check the current weather in any city worldwide.
 
@@ -8,5 +8,5 @@ A simple and elegant weather application built with HTML, CSS, and JavaScript th
 
 ---
 
-### 📸 Weather Display
+### Weather Display
 ![Weather Display](images/weather-app-screenshot.png)
